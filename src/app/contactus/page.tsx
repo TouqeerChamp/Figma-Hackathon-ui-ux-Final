@@ -28,9 +28,9 @@ const ContactUs = () => {
             <p className='font-semibold text-[20px]'>WHAT PAYMENT OPTIONS CAN I USE ON NIKE ORDERS?</p>
             <p>We want to make buying your favourite Nike shoes and gear online fast and easy, and we accept the following payment options:</p>
             <p className='pl-5'>Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro</p>
-            <p className='pl-5'>If you enter your PAN information at checkout, you'll be able to pay for your order with PayTM or a local credit or debit card.</p>
+            <p className='pl-5'>If you enter your PAN information at checkout, youll be able to pay for your order with PayTM or a local credit or debit card.</p>
             <p className='pl-5'>Apple Pay</p>
-            <p><u><b>Nike Members</b></u> can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member, <u><b>join us</b></u> <br /> today.</p>
+            <p><u><b>Nike Members</b></u> can store multiple debit or credit cards in their profile for faster checkout. If youre not already a Member, <u><b>join us</b></u> <br /> today.</p>
         
         <div className="flex gap-4 pt-2">
             <button className='bg-black text-white border rounded-2xl px-4 py-1 text-[12px] cursor-pointer hover:bg-gray-400'>JOIN US</button>
@@ -49,7 +49,7 @@ const ContactUs = () => {
             
           <div>
             <p className='font-semibold pb-2'>Can I pay for my order with multiple methods?</p>
-                <p className=''>No, payment for Nike orders can't be split between multiple payment methods.</p>
+                <p className=''>No, payment for Nike orders cant be split between multiple payment methods.</p>
             </div>
 
             <div>
@@ -58,8 +58,8 @@ const ContactUs = () => {
             </div>
 
             <div>
-            <p className='font-semibold pb-2'>Why don't I see Apple Pay as an option?</p>
-                <p className=''>To see Apple Pay as an option in the Nike App or on Nike.com, you'll need to use a compatible Apple device running the latest <br /> OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you'll need to use Safari to use <br /> Apple Pay on Nike.com.</p>
+            <p className='font-semibold pb-2'>Why dont I see Apple Pay as an option?</p>
+                <p className=''>To see Apple Pay as an option in the Nike App or on Nike.com, youll need to use a compatible Apple device running the latest <br /> OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, youll need to use Safari to use <br /> Apple Pay on Nike.com.</p>
             </div>
 
             <div className="text-[11px]">
@@ -72,7 +72,7 @@ const ContactUs = () => {
             </div>
 
             <div className="underline font-semibold space-y-2 pl-5 cursor-pointer">
-                <p>WHAT ARE NIKE'S DELIVERY OPTIONS?</p>
+                <p>WHAT ARE NIKES DELIVERY OPTIONS?</p>
                 <p>HOW DO I GET FREE DELIVERY ON NIKE ORDERS</p>
             </div>
       </div>
@@ -106,7 +106,7 @@ const ContactUs = () => {
                 <img src="/contactmsgimg.png" alt="text" />
             </div>
             <div className="pt-3">
-                <p className='text-[12px] font-semibold'>We'll reply within</p>
+                <p className='text-[12px] font-semibold'>Well reply within</p>
                 <p className='text-[12px]'>five business days</p>
             </div>
         </div>

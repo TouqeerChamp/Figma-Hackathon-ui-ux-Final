@@ -76,8 +76,8 @@ const DropMenuBarWithImages = () => {
     </div>
     <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
       <div className="text-red-500 font-semibold"><p>Just In</p></div>
-      <div className="font-semibold"><p>Nike Air Force 1 Mid '07</p></div>
-      <div className="text-gray-500"><p>Men's Shoes</p></div>
+      <div className="font-semibold"><p>Nike Air Force 1 Mid 07</p></div>
+      <div className="text-gray-500"><p>Mens Shoes</p></div>
       <div className="text-gray-500"><p>1 Colour</p></div>
       <div className="font-semibold pt-3"><p>MRP : $ 10 795.00</p></div>
     </div>
@@ -90,7 +90,7 @@ const DropMenuBarWithImages = () => {
     <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
       <div className="text-red-500 font-semibold"><p>Just In</p></div>
       <div className="font-semibold"><p>Nike Court Vision Low Next Nature</p></div>
-      <div className="text-gray-500"><p>Men's Shoes</p></div>
+      <div className="text-gray-500"><p>Mens Shoes</p></div>
       <div className="text-gray-500"><p>1 Colour</p></div>
       <div className="font-semibold pt-3"><p>MRP : $ 4 995.00</p></div>
     </div>
@@ -105,7 +105,7 @@ const DropMenuBarWithImages = () => {
     <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
       <div className="text-red-500 font-semibold"><p>Just In</p></div>
       <div className="font-semibold"><p>Nike Air Force 1 PLT.AF.ORM</p></div>
-      <div className="text-gray-500"><p>Women's Shoes</p></div>
+      <div className="text-gray-500"><p>Womens Shoes</p></div>
       <div className="text-gray-500"><p>1 Colour</p></div>
       <div className="font-semibold pt-3"><p>MRP : $ 8 695.00</p></div>
     </div>
@@ -118,7 +118,7 @@ const DropMenuBarWithImages = () => {
     <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
       <div className="text-red-500 font-semibold"><p>Just In</p></div>
       <div className="font-semibold"><p>Nike Air Force 1 React</p></div>
-      <div className="text-gray-500"><p>Men's Shoes</p></div>
+      <div className="text-gray-500"><p>Mens Shoes</p></div>
       <div className="text-gray-500"><p>1 Colour</p></div>
       <div className="font-semibold pt-3"><p>MRP : $ 13 295.00</p></div>
     </div>
@@ -131,7 +131,7 @@ const DropMenuBarWithImages = () => {
     <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
       <div className="text-red-500 font-semibold"><p>Just In</p></div>
       <div className="font-semibold"><p>Air Jordan 1 Elevate Low</p></div>
-      <div className="text-gray-500"><p>Women's Shoes</p></div>
+      <div className="text-gray-500"><p>Womens Shoes</p></div>
       <div className="text-gray-500"><p>1 Colour</p></div>
       <div className="font-semibold pt-3"><p>MRP : $ 11 895.00</p></div>
     </div>
@@ -144,7 +144,7 @@ const DropMenuBarWithImages = () => {
     <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
       <div className="text-red-500 font-semibold"><p>Just In</p></div>
       <div className="font-semibold"><p>Nike Standard Issue</p></div>
-      <div className="text-gray-500"><p>Men's Shoes</p></div>
+      <div className="text-gray-500"><p>Mens Shoes</p></div>
       <div className="text-gray-500"><p>1 Colour</p></div>
       <div className="font-semibold pt-3"><p>MRP : $ 2 895.00</p></div>
     </div>
@@ -158,7 +158,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Dunk Low Retro SE</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 9 895.00</p></div>
                   </div>
@@ -172,7 +172,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Dri-FIT UV Hyverse</p></div>
-                    <div className='text-gray-500'><p>Men's Short-Sleeve Graphic Fitness Top</p></div>
+                    <div className='text-gray-500'><p>Mens Short-Sleeve Graphic Fitness Top</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 2 495.00</p></div>
                   </div>
@@ -185,7 +185,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Court Vision Low</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 5695.00</p></div>
                   </div>
@@ -198,7 +198,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Dri-FIT Ready</p></div>
-                    <div className='text-gray-500'><p>Men's Short-Sleeve Fitness Top</p></div>
+                    <div className='text-gray-500'><p>Mens Short-Sleeve Fitness Top</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 2 495.00</p></div>
                   </div>
@@ -211,7 +211,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike One Leak Protection: Period</p></div>
-                    <div className='text-gray-500'><p>Women's Mid-Rise 18cm (approx.) Biker Shorts</p></div>
+                    <div className='text-gray-500'><p>Womens Mid-Rise 18cm (approx.) Biker Shorts</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 3 395.00</p></div>
                   </div>
@@ -223,8 +223,8 @@ const DropMenuBarWithImages = () => {
                   </div>
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
-                    <div className='font-semibold'><p>Nike Air Force 1 Mid '07</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='font-semibold'><p>Nike Air Force 1 Mid 07</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 7 495.00</p></div>
                   </div>
@@ -237,7 +237,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Blazer Low Platform</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 8 195.00</p></div>
                   </div>
@@ -250,8 +250,8 @@ const DropMenuBarWithImages = () => {
                   </div>
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
-                    <div className='font-semibold'><p>Nike Air Force 1 '07</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='font-semibold'><p>Nike Air Force 1 07</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 10 795.00</p></div>
                   </div>
@@ -264,7 +264,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Pro Dri-Fit</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 1 495.00</p></div>
                   </div>
@@ -278,7 +278,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Dunk Low Retro</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 8 695.00</p></div>
                   </div>
@@ -292,7 +292,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Air Max SC</p></div>
-                    <div className='text-gray-500'><p>Women's Shoes</p></div>
+                    <div className='text-gray-500'><p>Womens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 5 995.00</p></div>
                   </div>
@@ -305,7 +305,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Dri-FIT UV Miler</p></div>
-                    <div className='text-gray-500'><p>Men's Short-Sleeve Running Top</p></div>
+                    <div className='text-gray-500'><p>Mens Short-Sleeve Running Top</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 1 695.00</p></div>
                   </div>
@@ -319,7 +319,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Air Max SYSTM</p></div>
-                    <div className='text-gray-500'><p>Older Kid's Shoes</p></div>
+                    <div className='text-gray-500'><p>Older Kids Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 6 495.00</p></div>
                   </div>
@@ -332,7 +332,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Alate All U</p></div>
-                    <div className='text-gray-500'><p>Women's Light-Support Lightly Lined U-<br/>Neck Printed Sports Bra</p></div>
+                    <div className='text-gray-500'><p>Womens Light-Support Lightly Lined U-<br/>Neck Printed Sports Bra</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 2 195.00</p></div>
                   </div>
@@ -345,7 +345,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Court Legacy Lift</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 7 495.00</p></div>
                   </div>
@@ -358,7 +358,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Air Bra Tank</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 3 095.00</p></div>
                   </div>
@@ -385,7 +385,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Dri-FIT Run Division Rise 365</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 3 495.00</p></div>
                   </div>
@@ -398,7 +398,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Dri-FIT Challenger</p></div>
-                    <div className='text-gray-500'><p>Men's 18cm (approx.) 2-in-1 Versatile Shorts</p></div>
+                    <div className='text-gray-500'><p>Mens 18cm (approx.) 2-in-1 Versatile Shorts</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 2 495.00</p></div>
                   </div>
@@ -411,7 +411,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Jordan Series ES</p></div>
-                    <div className='text-gray-500'><p>Men's Shoes</p></div>
+                    <div className='text-gray-500'><p>Mens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 7 495.00</p></div>
                   </div>
@@ -424,7 +424,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Outdoor Play</p></div>
-                    <div className='text-gray-500'><p>Older Kids' Oversized Woven Jacket</p></div>
+                    <div className='text-gray-500'><p>Older Kids Oversized Woven Jacket</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 3 895.00</p></div>
                   </div>
@@ -437,7 +437,7 @@ const DropMenuBarWithImages = () => {
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
                     <div className='font-semibold'><p>Nike Sportswear Trend</p></div>
-                    <div className='text-gray-500'><p>Older Kids '(Girls)' High-waisted Woven Shorts</p></div>
+                    <div className='text-gray-500'><p>Older Kids (Girls) High-waisted Woven Shorts</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 2 495.00</p></div>
                   </div>
@@ -450,8 +450,8 @@ const DropMenuBarWithImages = () => {
                   </div>
                   <div className="w-full sm:w-[348px] h-[185px] text-[12px] p-2">
                     <div className='text-red-500 font-semibold'><p>Just In</p></div>
-                    <div className='font-semibold'><p>Nike Blazer Low '77 Jumbo</p></div>
-                    <div className='text-gray-500'><p>Women's Shoes</p></div>
+                    <div className='font-semibold'><p>Nike Blazer Low 77 Jumbo</p></div>
+                    <div className='text-gray-500'><p>Womens Shoes</p></div>
                     <div className='text-gray-500'><p>1 Colour</p></div>
                     <div className='font-semibold pt-3'><p>MRP : $ 8 595.00</p></div>
                   </div>
@@ -482,12 +482,12 @@ const DropMenuBarWithImages = () => {
     <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>Best Shoes</p></div>
     <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>New Basketball Shoes</p></div>
     <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>New Football Shoes</p></div>
-    <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>New Men's Shoes</p></div>
+    <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>New Mens Shoes</p></div>
     <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>New Running Shoes</p></div>
-    <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>Best Men's Shoes</p></div>
+    <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>Best Mens Shoes</p></div>
     <div className="flex flex-wrap w-full sm:w-[1090px] gap-2">
       <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>New Jordan Shoes</p></div>
-      <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>Best Women's Shoes</p></div>
+      <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>Best Womens Shoes</p></div>
       <div className="border rounded-2xl p-[3px] text-[9px] py-2 px-8 hover:text-gray-300 cursor-pointer"><p>Best Training & gym</p></div>
     </div>
   </div>

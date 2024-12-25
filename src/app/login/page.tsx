@@ -26,7 +26,7 @@ const LoginPage = () => {
         </div>
 
         <div className="w-[300px] mx-auto text-[12px] text-gray-400 pt-5">
-            <p>By Logging in, you agree to Nike's <u>Privacy Policy</u> and <u>Terms of Use.</u></p>
+            <p>By Logging in, you agree to Nikes <u>Privacy Policy</u> and <u>Terms of Use.</u></p>
         </div>
 
         <div className='pt-7'>

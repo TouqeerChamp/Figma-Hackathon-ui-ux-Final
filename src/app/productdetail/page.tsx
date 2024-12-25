@@ -24,7 +24,7 @@ const ProductDetail = () => {
         <h1>Nike Air Force 1 <br /> PLT.AF.ORM</h1>
       </div>
       <div className="w-full md:w-[300px] h-auto md:h-[96px] text-[13px]">
-        <p>Turn style on its head with this crafted take on the Air Jordan 1 Mid. Its "inside out"-inspired construction, including unique layering and exposed foam accents, ups the ante on this timeless Jordan Brand silhouette. Details like the deco stitching on the Swoosh add coveted appeal, while the unexpected shading, rich mixture of materials and aged midsole aesthetic give this release an artisan finish.</p>
+        <p>Turn style on its head with this crafted take on the Air Jordan 1 Mid. Its inside out inspired construction, including unique layering and exposed foam accents, ups the ante on this timeless Jordan Brand silhouette. Details like the deco stitching on the Swoosh add coveted appeal, while the unexpected shading, rich mixture of materials and aged midsole aesthetic give this release an artisan finish.</p>
       </div>
       <div className="w-full md:w-[374.92px] pt-10 md:pt-28">
         <h1 className='text-[20px] font-semibold'>$ 8 695.00</h1>

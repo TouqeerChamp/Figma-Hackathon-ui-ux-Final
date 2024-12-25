@@ -40,7 +40,7 @@ const CheckOut = () => {
     </div>
     <div className="pt-2 text-sm text-gray-400">
       <p>
-        Customs regulation for India require a copy of the recipient's KYC. The address on the KYC needs to match the shipping address. Our courier will contact you via SMS/email to obtain a copy of your KYC. The KYC will be stored securely and used solely for the purpose of clearing customs (including sharing it with customs officials) for all orders and returns. If your KYC does not match your shipping address, please click the link for more information. <u>Learn More</u>
+        Customs regulation for India require a copy of the recipients KYC. The address on the KYC needs to match the shipping address. Our courier will contact you via SMS/email to obtain a copy of your KYC. The KYC will be stored securely and used solely for the purpose of clearing customs (including sharing it with customs officials) for all orders and returns. If your KYC does not match your shipping address, please click the link for more information. <u>Learn More</u>
       </p>
     </div>
     <div className="w-full flex items-center gap-4 border-2 border-black rounded-xl p-4 mt-4">
@@ -79,14 +79,14 @@ const CheckOut = () => {
       <p>Make this my preferred address</p>
     </div>
     <div className="grid gap-4 pt-8">
-      <p className="pb-2">What's your contact information:</p>
+      <p className="pb-2">Whats your contact information:</p>
       <input type="email" placeholder="Email" className="border rounded-lg p-3 text-sm w-full" />
       <p className="text-gray-400 text-xs">A confirmation email will be sent after checkout.</p>
       <input type="tel" placeholder="Phone Number" className="border rounded-lg p-3 text-sm w-full" />
       <p className="text-gray-400 text-xs">A carrier might contact you to confirm delivery.</p>
     </div>
     <div className="grid gap-4 pt-8">
-      <p>What's your PAN?</p>
+      <p>Whats your PAN?</p>
       <input type="text" placeholder="PAN" className="border rounded-lg p-3 text-sm w-full" />
       <p className="text-gray-400 text-xs">
         Enter your PAN to enable payment with UPI, Net Banking or local card methods.
@@ -148,7 +148,7 @@ const CheckOut = () => {
         <img src="/summaryimg.png" alt="Product 1" className="w-full h-auto" />
       </div>
       <div className="w-1/2 text-sm">
-        <p>Nike Dri-FIT ADV TechKnit Ultra Men's Short-Sleeve Running Top</p>
+        <p>Nike Dri-FIT ADV TechKnit Ultra Mens Short-Sleeve Running Top</p>
         <p className="text-gray-400">Qty: 1</p>
         <p className="text-gray-400">Size: L</p>
         <p className="text-gray-400">$ 3 895.00</p>
@@ -159,7 +159,7 @@ const CheckOut = () => {
         <img src="/summaryimg2.png" alt="Product 2" className="w-full h-auto" />
       </div>
       <div className="w-1/2 text-sm">
-        <p>Nike Air Max 97 SE Men's Shoes</p>
+        <p>Nike Air Max 97 SE Mens Shoes</p>
         <p className="text-gray-400">Qty: 1</p>
         <p className="text-gray-400">Size: UK 8</p>
         <p className="text-gray-400">$ 16 995.00</p>

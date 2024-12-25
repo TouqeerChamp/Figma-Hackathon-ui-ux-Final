@@ -1,5 +1,4 @@
 import React from 'react'
-import TopNavbarLogin from '../Components/TopNavbarLogin'
 import SNKRS from '../Components/SNKRS'
 
 const Snkrs = () => {

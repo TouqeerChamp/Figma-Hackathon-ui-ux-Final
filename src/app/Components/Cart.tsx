@@ -27,7 +27,7 @@ const Cart = () => {
                             </div>
                             <div className="pl-8">
                                 <p className='text-[14px]'>Nike Dri-FIT ADV TechKnit Ultra</p>
-                                <p className='text-gray-400 text-[14px]'>Men's Short-Sleeve Running Top</p>
+                                <p className='text-gray-400 text-[14px]'>Mens Short-Sleeve Running Top</p>
                                 <p className='text-gray-400 text-[14px]'>Ashen Slate/Cobalt Bliss</p>
                                 <div className="flex gap-12">
                                     <p className='text-gray-400 text-[14px]'>Size L</p>
@@ -50,7 +50,7 @@ const Cart = () => {
                             </div>
                             <div className="pl-8">
                                 <p className='text-[14px]'>Nike Air Max 97 SE</p>
-                                <p className='text-gray-400 text-[14px]'>Men's Shoes</p>
+                                <p className='text-gray-400 text-[14px]'>Mens Shoes</p>
                                 <p className='text-gray-400 text-[14px]'>Flat Pewter/Light Bone/Black/White</p>
                                 <div className="flex gap-12">
                                     <p className='text-gray-400 text-[14px]'>Size 8</p>

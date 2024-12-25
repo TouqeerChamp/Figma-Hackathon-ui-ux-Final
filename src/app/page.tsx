@@ -1,4 +1,3 @@
-import Image from "next/image";
 import TopNavbarSignIn from "./Components/TopNavbarSignIn";
 import Header from "./Components/Header";
 import * as React from "react"
@@ -126,8 +125,8 @@ export default function Home() {
 
       <div className="container mx-auto w-full pt-12">
           <div className="pt-12">
-            <p className="font-semibold text-xl">Dont't Miss</p>
-            <img src="/dontmiss.png" alt="dontmiss" />
+            <p className="font-semibold text-xl">Dont Miss</p>
+            <img src="/dontmiss.png" alt="dontmiss"/>
           </div>
       </div>
 
@@ -135,8 +134,8 @@ export default function Home() {
 
       <div className="container mx-auto w-full pt-12">
           <div className="pt-12">
-            <p className="font-semibold text-xl">Dont't Miss</p>
-            <img src="/essential.png" alt="essential" />
+            <p className="font-semibold text-xl">Dont Miss</p>
+            <img src="/essential.png" alt="essential"/>
           </div>
       </div>
 
@@ -175,11 +174,11 @@ export default function Home() {
 
           <div className="">
             <ul className="space-y-3">
-              <li className="font-semibold text-black pb-3">Kids'</li>
+              <li className="font-semibold text-black pb-3">Kids</li>
               <li className="cursor-pointer hover:text-black">Infant & Toddler Shoes</li>
-              <li className="cursor-pointer hover:text-black">Kids'Shoes</li>
-              <li className="cursor-pointer hover:text-black">Kids' Jordan Shoes</li>
-              <li className="cursor-pointer hover:text-black">Kids' Basketball Shoes</li>
+              <li className="cursor-pointer hover:text-black">Kids Shoes</li>
+              <li className="cursor-pointer hover:text-black">Kids Jordan Shoes</li>
+              <li className="cursor-pointer hover:text-black">Kids Basketball Shoes</li>
             </ul>
           </div>
         </div>

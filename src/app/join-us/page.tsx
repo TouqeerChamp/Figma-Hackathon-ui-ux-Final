@@ -48,7 +48,7 @@ const JoinUs = () => {
             </div>
 
     <div className="w-[300px] mx-auto text-[12px] text-gray-400 pt-5">
-        <p>By creating an account, you agree to Nike's <u>Privacy Policy</u> and <u>Terms of Use.</u></p>
+        <p>By creating an account, you agree to Nikes <u>Privacy Policy</u> and <u>Terms of Use.</u></p>
     </div>
 
     <div className='pt-7'>
