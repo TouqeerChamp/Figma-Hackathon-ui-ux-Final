@@ -10,7 +10,6 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel"
-import { Fullscreen } from "lucide-react";
 
 export default function Home() {
   return (
