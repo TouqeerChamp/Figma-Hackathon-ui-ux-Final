@@ -1,4 +1,5 @@
 import TopNavbarSignIn from "./Components/TopNavbarSignIn";
+import Image from "next/image";
 import Header from "./Components/Header";
 import * as React from "react"
 import { Card, CardContent } from "@/components/ui/card"
@@ -48,35 +49,39 @@ export default function Home() {
       </div>
 
 
+
 <div className="container mx-auto w-full pt-8">
-      <Carousel
-      opts={{
-        align: "start",
-      }}
-      className="w-full mx-auto max-w-5xl"
-    >
-      <CarouselContent>
-        {Array.from({ length: 5 }).map((_, index) => (
-          <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
-            <div className="p-1">
-              <Card className="mx-">
-                <CardContent className="flex aspect-square items-center justify-center p-6">
-                  <span className="text-3xl font-semibold">{index + 1}</span>
-                  <img
-                src={`/01-${index + 1}.png`}
-                alt={`Image ${index + 1}`}
-                className="object-cover w-full h-full rounded-md"
-              />
-                </CardContent>
-              </Card>
-            </div>
-          </CarouselItem>
-        ))}
-      </CarouselContent>
-      <CarouselPrevious />
-      <CarouselNext />
-    </Carousel>
-      </div>
+  <Carousel
+    opts={{
+      align: "start",
+    }}
+    className="w-full mx-auto max-w-5xl"
+  >
+    <CarouselContent>
+      {Array.from({ length: 5 }).map((_, index) => (
+        <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
+          <div className="p-1">
+            <Card className="mx-">
+              <CardContent className="flex aspect-square items-center justify-center p-6">
+                <span className="text-3xl font-semibold">{index + 1}</span>
+                <Image
+                  src={`/02.png`}
+                  alt={`Image ${index + 1}`}
+                  width={500}
+                  height={500}
+                  className="object-cover w-full h-full rounded-md"
+                />
+              </CardContent>
+            </Card>
+          </div>
+        </CarouselItem>
+      ))}
+    </CarouselContent>
+    <CarouselPrevious />
+    <CarouselNext />
+  </Carousel>
+</div>;
+
 
 
 
@@ -106,7 +111,7 @@ export default function Home() {
                 <CardContent className="flex aspect-square items-center justify-center p-6">
                   <span className="text-3xl font-semibold">{index + 1}</span>
                   <img
-                src={`/01-${index + 1}.png`}
+                src={`/03.png`}
                 alt={`Image ${index + 1}`}
                 className="object-cover w-full h-full rounded-md"
               />

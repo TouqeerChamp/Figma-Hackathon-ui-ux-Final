@@ -78,35 +78,38 @@ export default function Navbar() {
 
           {/* Search Box and Icons */}
           <div className="flex items-center space-x-4 ml-4 sm:ml-8">
-            {/* Search Box */}
-            <div className="flex items-center bg-gray-100 rounded-full px-4 py-2">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5 text-gray-500"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M21 21l-4.35-4.35M17 10a7 7 0 11-14 0 7 7 0 0114 0z"
-                />
-              </svg>
-              <input
-                type="text"
-                placeholder="Search"
-                className="bg-transparent text-sm text-gray-800 placeholder-gray-500 focus:outline-none ml-2"
-              />
-            </div>
+  {/* Search Box */}
+  <div className="flex items-center bg-gray-100 rounded-full px-4 py-2">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      className="h-5 w-5 text-gray-500"
+      fill="none"
+      viewBox="0 0 24 24"
+      stroke="currentColor"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={2}
+        d="M21 21l-4.35-4.35M17 10a7 7 0 11-14 0 7 7 0 0114 0z"
+      />
+    </svg>
+    <input
+      type="text"
+      placeholder="Search"
+      className="hidden sm:block bg-transparent text-sm text-gray-800 placeholder-gray-500 focus:outline-none ml-2"
+    />
+  </div>
 
-            {/* Icons */}
-            <div className="flex items-center space-x-4">
-              <FaRegHeart className="hover:text-gray-400 cursor-pointer"/>
-              <Link href="/cart"><IoBagOutline className="hover:text-gray-400 cursor-pointer"/></Link>
-            </div>
-          </div>
+  {/* Icons */}
+  <div className="flex items-center space-x-4">
+    <FaRegHeart className="hover:text-gray-400 cursor-pointer" />
+    <Link href="/cart">
+      <IoBagOutline className="hover:text-gray-400 cursor-pointer" />
+    </Link>
+  </div>
+</div>
+
         </div>
 
         {/* Mobile Menu - Toggle visibility */}
