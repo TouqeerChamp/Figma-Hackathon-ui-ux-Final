@@ -10,6 +10,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel"
+import { Fullscreen } from "lucide-react";
 
 export default function Home() {
   return (
@@ -89,7 +90,14 @@ export default function Home() {
       <div className="container mx-auto w-full pt-12">
           <div className="pt-12">
             <p className="font-semibold text-xl">Featured</p>
-            <img src="/feature.png" alt="feature" />
+            <Image
+                  src={'/feature.png'}
+                  alt={'Image'}
+                  width={500}
+                  height={500}
+                  className="object-cover w-full h-full rounded-md"
+                />
+
           </div>
       </div>
 
